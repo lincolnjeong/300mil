@@ -7,3 +7,103 @@
 1580032326170	Marionette	INFO	Listening on port 40701
 1580032326255	Marionette	WARN	TLS certificate errors will be ignored for this session
 1580034130569	Marionette	INFO	Stopped listening on port 40701
+1580479271950	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileETKVnd"
+1580479272458	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580479272584	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580479272584	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580479272584	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580479272584	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580479273744	Marionette	INFO	Listening on port 32919
+1580479273756	Marionette	WARN	TLS certificate errors will be ignored for this session
+1580479276934	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+send@http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js:5:25682
+ajax@http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js:5:21570
+m._evalUrl@http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js:5:22649
+domManip@http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js:4:23089
+append@http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js:4:20620
+html/<@http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js:4:22151
+m.access@http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js:4:3399
+html@http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js:4:21736
+success@http://marketdata.krx.co.kr/templets/pc/js/templet.js:193:8
+j@http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js:2:27309
+fireWith@http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js:2:28122
+x@http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js:5:22111
+b@http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js:5:26030
+JavaScript error: http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js line 2 > eval, line 1: TypeError: this[_0x78f8[144]] is not a function
+JavaScript error: http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js line 2 > eval, line 1: TypeError: this[_0x78f8[144]] is not a function
+JavaScript error: http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js line 2 > eval, line 1: TypeError: this[_0x78f8[144]] is not a function
+JavaScript error: http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js line 2 > eval, line 1: TypeError: this[_0x78f8[144]] is not a function
+JavaScript error: http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js line 2 > eval, line 1: TypeError: this[_0x78f8[144]] is not a function
+JavaScript error: http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js line 2 > eval, line 1: TypeError: this[_0x78f8[144]] is not a function
+JavaScript error: http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js line 2 > eval, line 1: TypeError: this[_0x78f8[144]] is not a function
+JavaScript error: http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js line 2 > eval, line 1: TypeError: this[_0x78f8[144]] is not a function
+1580480130497	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6VSgMA"
+1580480130716	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580480130815	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580480130815	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580480130815	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580480130815	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580480131794	Marionette	INFO	Listening on port 37393
+1580480131800	Marionette	WARN	TLS certificate errors will be ignored for this session
+1580480389953	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepbnQLq"
+1580480390188	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580480390276	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580480390276	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580480390276	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580480390276	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580480391191	Marionette	INFO	Listening on port 43983
+1580480391257	Marionette	WARN	TLS certificate errors will be ignored for this session
+1580480394978	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+send@http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js:5:25682
+ajax@http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js:5:21570
+m._evalUrl@http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js:5:22649
+domManip@http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js:4:23089
+append@http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js:4:20620
+html/<@http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js:4:22151
+m.access@http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js:4:3399
+html@http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js:4:21736
+success@http://marketdata.krx.co.kr/templets/pc/js/templet.js:193:8
+j@http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js:2:27309
+fireWith@http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js:2:28122
+x@http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js:5:22111
+b@http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js:5:26030
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1580480645923	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileo5NCLL"
+1580480646211	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580480646303	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580480646303	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580480646303	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580480646303	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580480647298	Marionette	INFO	Listening on port 32893
+1580480647327	Marionette	WARN	TLS certificate errors will be ignored for this session
+1580480649494	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+send@http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js:5:25682
+ajax@http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js:5:21570
+m._evalUrl@http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js:5:22649
+domManip@http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js:4:23089
+append@http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js:4:20620
+html/<@http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js:4:22151
+m.access@http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js:4:3399
+html@http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js:4:21736
+success@http://marketdata.krx.co.kr/templets/pc/js/templet.js:193:8
+j@http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js:2:27309
+fireWith@http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js:2:28122
+x@http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js:5:22111
+b@http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js:5:26030
+JavaScript error: http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js line 2 > eval, line 1: TypeError: this[_0x78f8[144]] is not a function
+JavaScript error: http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js line 2 > eval, line 1: TypeError: this[_0x78f8[144]] is not a function
+JavaScript error: http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js line 2 > eval, line 1: TypeError: this[_0x78f8[144]] is not a function
+JavaScript error: http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js line 2 > eval, line 1: TypeError: this[_0x78f8[144]] is not a function
+JavaScript error: http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js line 2 > eval, line 1: TypeError: this[_0x78f8[144]] is not a function
+JavaScript error: http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js line 2 > eval, line 1: TypeError: this[_0x78f8[144]] is not a function
