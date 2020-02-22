@@ -107,3 +107,37 @@ JavaScript error: http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js line 
 JavaScript error: http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js line 2 > eval, line 1: TypeError: this[_0x78f8[144]] is not a function
 JavaScript error: http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js line 2 > eval, line 1: TypeError: this[_0x78f8[144]] is not a function
 JavaScript error: http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js line 2 > eval, line 1: TypeError: this[_0x78f8[144]] is not a function
+1580481526780	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0QBGtl"
+1580481527015	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580481527108	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580481527108	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580481527108	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580481527108	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580481528074	Marionette	INFO	Listening on port 42879
+1580481528084	Marionette	WARN	TLS certificate errors will be ignored for this session
+1580481531097	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+send@http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js:5:25682
+ajax@http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js:5:21570
+m._evalUrl@http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js:5:22649
+domManip@http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js:4:23089
+append@http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js:4:20620
+html/<@http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js:4:22151
+m.access@http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js:4:3399
+html@http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js:4:21736
+success@http://marketdata.krx.co.kr/templets/pc/js/templet.js:193:8
+j@http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js:2:27309
+fireWith@http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js:2:28122
+x@http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js:5:22111
+b@http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js:5:26030
+JavaScript error: http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js line 2 > eval, line 1: TypeError: this[_0x78f8[144]] is not a function
+JavaScript error: http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js line 2 > eval, line 1: TypeError: this[_0x78f8[144]] is not a function
+JavaScript error: http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js line 2 > eval, line 1: TypeError: this[_0x78f8[144]] is not a function
+JavaScript error: http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js line 2 > eval, line 1: TypeError: this[_0x78f8[144]] is not a function
+JavaScript error: http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js line 2 > eval, line 1: TypeError: this[_0x78f8[144]] is not a function
+JavaScript error: http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js line 2 > eval, line 1: TypeError: this[_0x78f8[144]] is not a function
+JavaScript error: http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js line 2 > eval, line 1: TypeError: this[_0x78f8[144]] is not a function
+JavaScript error: http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js line 2 > eval, line 1: TypeError: this[_0x78f8[144]] is not a function
+JavaScript error: http://marketdata.krx.co.kr/WEB-APP/jquery/jquery.min.js line 2 > eval, line 1: TypeError: this[_0x78f8[144]] is not a function
+1580482043551	Marionette	INFO	Stopped listening on port 32893
+1580483022894	Marionette	INFO	Stopped listening on port 42879
